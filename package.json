@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.2.0",
   "type": "module",
-  "homepage": "https://dyjagger.github.io/gametest",
+  "homepage": "https://dyjagger.github.io/gametest-v2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
