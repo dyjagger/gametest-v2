@@ -6,7 +6,6 @@ import type {
   CardInstance,
   Enemy,
   Artifact,
-  Blessing,
   ProgressionState,
   GameSettings,
   CombatState,
@@ -20,7 +19,6 @@ import { createSeededRng } from '../../utils/rng';
 import { createCombatEnemies } from '../../data/enemies';
 import { checkCombatEnd } from '../combat/combat-engine';
 import { 
-  applyStatusEffectsToDamage, 
   applyStatusEffectsToBlock,
   applyDamageToEnemy,
   addStatusEffect,
